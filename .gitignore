@@ -4,3 +4,4 @@ etc
 lib
 share
 .ipynb_checkpoints
+pyvenv.cfg
